@@ -1,4 +1,4 @@
-This is an app created by the Gemini API on Google Cloud (with a little input and troubleshooting on my part). To run it, do the following:
+This is an app created by the Gemini CLI on Google Cloud (with a little input and troubleshooting on my part). To run it, do the following:
 
 * Log into https://console.cloud.google.com
 
